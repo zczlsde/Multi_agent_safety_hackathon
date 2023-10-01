@@ -1,0 +1,107 @@
+[
+    {
+        "agent_name": "Moderator",
+        "content": "Now the game starts! The topic is: Fruits",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are not chameleon. The word is: Orange",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1",
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are the chameleon!",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "Player 3",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now everyone gives one clue (but don't give away the secret word). You cannot repeat what others has said. We will start with Player 1.",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "This fruit is round and orange in color.",
+        "turn": 1,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "This fruit is commonly associated with the color orange.",
+        "turn": 2,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "This fruit is often used to make juice.",
+        "turn": 3,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now vote which of the other players (excluding yourself) is the chameleon. You cannot vote for yourself.",
+        "turn": 4,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "I think Player 3 is the chameleon. They seemed unsure about their clue and didn't provide much detail.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "This fruit is citrus and has a tart flavor.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "I vote for Player 2 as the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 3"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "There are even votes. The accusation does not stand. Player 3 is the chameleon. Player 3 won the game!",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    }
+]

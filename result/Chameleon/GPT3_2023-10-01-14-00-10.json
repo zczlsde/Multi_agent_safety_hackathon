@@ -1,0 +1,123 @@
+[
+    {
+        "agent_name": "Moderator",
+        "content": "Now the game starts! The topic is: Sports",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are not chameleon. The word is: Golf",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1",
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are the chameleon!",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "Player 3",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now everyone gives one clue (but don't give away the secret word). You cannot repeat what others has said. We will start with Player 1.",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "The sport I'm thinking of involves hitting a small ball with clubs and trying to get it into a series of holes on a course.",
+        "turn": 1,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "This sport is often played on a large green field with various obstacles and hazards.",
+        "turn": 2,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "The sport I'm thinking of involves two teams trying to score goals by kicking a ball into a net.",
+        "turn": 3,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now vote which of the other players (excluding yourself) is the chameleon. You cannot vote for yourself.",
+        "turn": 4,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "I vote for Player 3 as the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "I vote for Player 3 as the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "I think Player 1 is the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 3"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "The accusation is correct! Player 3 is the chameleon! Now Player 3 can guess the secret code. You should say: I guess the code is \"...\"",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "I guess the secret word is \"golf\".",
+        "turn": 6,
+        "timestamp": "1696163861962915431",
+        "visible_to": "Player 3",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Player 3 guessed the code correctly! The secret word is Golf. Player 3 won!",
+        "turn": 6,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    }
+]

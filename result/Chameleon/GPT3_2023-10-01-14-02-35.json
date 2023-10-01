@@ -1,0 +1,107 @@
+[
+    {
+        "agent_name": "Moderator",
+        "content": "Now the game starts! The topic is: Countries",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are not chameleon. The word is: Brazil",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1",
+            "Player 3"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are the chameleon!",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "Player 2",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now everyone gives one clue (but don't give away the secret word). You cannot repeat what others has said. We will start with Player 1.",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "Brazil is the largest country in South America by both land area and population.",
+        "turn": 1,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "Canada is known for its vast landscapes and cold weather.",
+        "turn": 2,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "Brazil is famous for its vibrant Carnival celebrations and samba dancing.",
+        "turn": 3,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now vote which of the other players (excluding yourself) is the chameleon. You cannot vote for yourself.",
+        "turn": 4,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "I suspect that Player 3 is the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "Based on the clues given, I think Player 3 is the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "I vote for Player 2 as the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 3"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "The most-voted player is Player 3. The accusation is incorrect. Player 2 is the chameleon. Player 2 won the game!",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    }
+]

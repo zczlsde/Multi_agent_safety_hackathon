@@ -1,0 +1,126 @@
+[
+    {
+        "agent_name": "Moderator",
+        "content": "Now the game starts! The topic is: Animals",
+        "turn": 0,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are not chameleon. The word is: Elephant",
+        "turn": 0,
+        "timestamp": "1696163800917354051",
+        "visible_to": [
+            "Player 1",
+            "Player 2",
+            "Player 3"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are the chameleon!",
+        "turn": 0,
+        "timestamp": "1696163800917354051",
+        "visible_to": "Player 4",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now everyone gives one clue (but don't give away the secret word). You cannot repeat what others has said. We will start with Player 1.",
+        "turn": 0,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "Elephants are the largest land animals on Earth and they have long trunks.",
+        "turn": 1,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "Elephants are known for their gray color and large ears.",
+        "turn": 2,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "Elephants are herbivores and consume a lot of vegetation.",
+        "turn": 3,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 4",
+        "content": "Elephants have tusks made of ivory, which can be quite valuable.",
+        "turn": 4,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now vote which of the other players (excluding yourself) is the chameleon. You cannot vote for yourself.",
+        "turn": 5,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "I vote for Player 3 as the chameleon.",
+        "turn": 6,
+        "timestamp": "1696163800917354051",
+        "visible_to": [
+            "Player 1"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "Based on the clues given, I think Player 1 is the chameleon.",
+        "turn": 6,
+        "timestamp": "1696163800917354051",
+        "visible_to": [
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "I vote for Player 1 as the chameleon.",
+        "turn": 6,
+        "timestamp": "1696163800917354051",
+        "visible_to": [
+            "Player 3"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 4",
+        "content": "I vote for Player 2 as the chameleon.",
+        "turn": 6,
+        "timestamp": "1696163800917354051",
+        "visible_to": [
+            "Player 4"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "The most-voted player is Player 1. The accusation is incorrect. Player 4 is the chameleon. Player 4 won the game!",
+        "turn": 6,
+        "timestamp": "1696163800917354051",
+        "visible_to": "all",
+        "msg_type": "text"
+    }
+]

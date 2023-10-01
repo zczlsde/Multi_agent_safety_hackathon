@@ -1,0 +1,107 @@
+[
+    {
+        "agent_name": "Moderator",
+        "content": "Now the game starts! The topic is: Animals",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are not chameleon. The word is: Giraffe",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1",
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "You are the chameleon!",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "Player 3",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now everyone gives one clue (but don't give away the secret word). You cannot repeat what others has said. We will start with Player 1.",
+        "turn": 0,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "The animal I am thinking of has a long neck.",
+        "turn": 1,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "The animal I am thinking of has spots on its body.",
+        "turn": 2,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "The animal I am thinking of is known for its intelligence.",
+        "turn": 3,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "Now vote which of the other players (excluding yourself) is the chameleon. You cannot vote for yourself.",
+        "turn": 4,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 1",
+        "content": "I think Player 3 is the chameleon because their clue was very vague and didn't provide much information about the animal.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 1"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 2",
+        "content": "I vote for Player 1 as the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 2"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Player 3",
+        "content": "I vote for Player 2 as the chameleon.",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": [
+            "Player 3"
+        ],
+        "msg_type": "text"
+    },
+    {
+        "agent_name": "Moderator",
+        "content": "There are even votes. The accusation does not stand. Player 3 is the chameleon. Player 3 won the game!",
+        "turn": 5,
+        "timestamp": "1696163861962915431",
+        "visible_to": "all",
+        "msg_type": "text"
+    }
+]
