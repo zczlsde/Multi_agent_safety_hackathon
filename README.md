@@ -9,3 +9,7 @@ Then set the OpenAI key to the environment and make sure you have OpenAI library
 ```bash
 export OPENAI_API_KEY="your_api_key_here"
 ```
+Run the demo by the following command:
+```bash
+python chameleon.py
+```
